@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with str
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Rama-koteswara-rao" target="_blank">
+  <a href="https://www.linkedin.com/in/rama-koteswara-rao-d-98ba0128a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ramakoteswararao.damarla1@gmail.com">
